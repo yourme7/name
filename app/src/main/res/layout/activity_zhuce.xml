@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".zhuce">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="登录后更精彩"
+        android:gravity="center"
+        android:textSize="40dp"
+        android:id="@+id/text"/>
+    <EditText
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_below="@id/text"
+        android:text="+86"
+        android:layout_marginTop="55dp"
+        android:id="@+id/text2"/>
+    <EditText
+        android:layout_width="350dp"
+        android:layout_height="40dp"
+        android:layout_toRightOf="@+id/text2"
+        android:layout_alignBottom="@id/text2"
+        android:hint="请输入手机号"
+        android:id="@+id/zhanghao"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text2"
+        android:hint="请输入验证码"
+        android:id="@+id/text3"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text3"
+        android:text="登录注册代表同意用户协议和隐私政策"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/text4"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/img1"
+        android:text="社交账号登录"
+        android:gravity="center"
+        android:layout_marginBottom="20dp" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text4"
+        android:text="同意协议并登录"
+        android:layout_marginTop="50dp"
+        android:id="@+id/denglu"/>
+
+    <Button
+        android:id="@+id/img1"
+        android:layout_width="50dp"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginBottom="4dp"
+         />
+
+    <Button
+        android:id="@+id/img2"
+        android:layout_width="50dp"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="60dp"
+        android:layout_toRightOf="@id/img1"
+         />
+
+    <Button
+        android:id="@+id/img3"
+        android:layout_width="50dp"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/img2"
+        android:layout_marginLeft="60dp"/>
+</RelativeLayout>

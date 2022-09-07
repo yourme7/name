@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/App2/app/src/main/res/layout/activity_adapter.xml" value="0.2708333333333333" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_bofang.xml" value="0.2421875" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_chaweizhang.xml" value="0.27395833333333336" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_denglu.xml" value="0.13333333333333333" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_info.xml" value="0.27395833333333336" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_jiemian.xml" value="0.24947916666666667" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_main2.xml" value="0.2421875" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_qita.xml" value="0.27395833333333336" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_shipeiqi.xml" value="0.2708333333333333" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_tianinfo.xml" value="0.27395833333333336" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_xel.xml" value="0.23229166666666667" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_zhuce.xml" value="0.264" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_zuoye.xml" value="0.264" />
+        <entry key="..\:/App2/app/src/main/res/layout/activity_zuoye2.xml" value="0.27395833333333336" />
+        <entry key="..\:/App2/app/src/main/res/layout/layout_name.xml" value="0.25625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
